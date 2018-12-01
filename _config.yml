@@ -17,7 +17,7 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "South-korea"
-title                    : "ji hyeok's blog"
+title                    : "Ji hyeok's blog"
 title_separator          : "-"
 name                     : "Jeong ji hyeok"
 description              : "An amazing website."
